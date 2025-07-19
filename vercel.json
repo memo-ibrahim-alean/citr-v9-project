@@ -1,8 +1,8 @@
 {
   "rewrites": [
     {
-      "source": "/padre-gino",
-      "destination": "https://www.mohamed-ibrahim.me/"
+      "source": "padre-gino",
+      "destination": "/"
     }
   ]
 }
